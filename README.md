@@ -17,6 +17,7 @@ Recomendaciones:
     2. pip install tqdm
 
 2. si no llegas a entender algo, te dejo enlaces donde puedes conseguir documentacion y informacion acerca de las librerias por la cual me guie:
+
   -https://pypi.org/project/tqdm/
   
   -https://pypi.org/project/tinytag/
@@ -25,8 +26,8 @@ Recomendaciones:
   
   -https://docs.python.org/es/3/library/pathlib.html
 
-si en otro momento en mi vida me llego a encontrar con un problema similar, convertire este codigo en una libreria
-y cambiare este apartado por intrunciones y en el idioma ingles.
+si en otro momento de mi vida me llego a encontrar con un problema similar, convertire este codigo en una libreria
+y cambiare este apartado por intrunciones en el idioma ingles.
 
 ULTIMA ACTUALIZACION: 9/07/2022
   
