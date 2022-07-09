@@ -1,5 +1,5 @@
 # organizador_musical
-organiza grandes cantidades de canciones
+Funcion: organizar grandes cantidades de canciones
 
 este codigo fue creado para solucionar un problema especifico, el cual era organizar mas de 1.000 canciones en pocos minutos. 
 con algunos detalles en el codigo podras organizar videos, fotos y mas tipos de datos. 
