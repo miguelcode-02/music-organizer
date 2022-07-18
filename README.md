@@ -26,8 +26,5 @@ Recomendaciones:
   
   -https://docs.python.org/es/3/library/pathlib.html
 
-si en otro momento de mi vida me llego a encontrar con un problema similar, convertire este codigo en una libreria
-y cambiare este apartado por intrunciones en el idioma ingles.
-
 ULTIMA ACTUALIZACION: 9/07/2022
   
