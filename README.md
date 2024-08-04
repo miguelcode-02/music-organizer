@@ -1,18 +1,18 @@
-# Organizer
-Organizer is a script that organizes music files into folders according to their artist and genre.
+# Organizador
+Organizador es un script que organiza archivos de música en carpetas de acuerdo a su artista y género.
 
-# Requirements
+# Requisitos
 * Python 3  
-* tinytag library  
-* tqdm library
+* Biblioteca tinytag  
+* Biblioteca tqdm
 
-# Usage
-1. Modify the r and r2 variables to specify the source and destination directories for your music files.
-2. Modify the autores and genero lists to include the artists and genres you want to organize your music files by.
-3. Run the script using python organizer.py.
+# Uso
+1. Modifica las variables r y r2 para especificar los directorios de origen y destino de tus archivos de música.
+2. Modifica las listas autores y genero para incluir los artistas y géneros por los que deseas organizar tus archivos de música.
+3. Ejecuta el script usando python organizer.py.
 
-# Notes
-* The script will create a new directory at the destination specified by r.
-* The script will create subdirectories within the destination directory for each artist and genre specified in the autores and genero lists.
-* Music files without artist or genre information will be organized into a "Sin datos" folder.
-* The script uses the TinyTag library to read the artist and genre information from the music files' metadata. If the metadata is incomplete or missing, the script may not be able to accurately organize the files.
+# Notas
+* El script creará un nuevo directorio en el destino especificado por r.
+* El script creará subdirectorios dentro del directorio de destino para cada artista y género especificado en las listas autores y genero.
+* Los archivos de música sin información de artista o género se organizarán en una carpeta llamada "Sin datos".
+* El script utiliza la biblioteca TinyTag para leer la información de artista y género de los metadatos de los archivos de música. Si los metadatos están incompletos o faltan, el script puede no ser capaz de organizar los archivos con precisión.
